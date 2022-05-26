@@ -21,6 +21,7 @@
     </Sets>
   </Requirements>
   <FormSettings>
+<SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
         <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
