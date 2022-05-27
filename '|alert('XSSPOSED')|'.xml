@@ -4,8 +4,8 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="%22onmouseover=alert(/Xssposed/)>R3NW4"/>
-  <Description DefaultValue="A template to get started."/>
+  <DisplayName DefaultValue="%22%22%22onmouseover=alert(/Xssposed/)>R3NW4"/>
+  <Description DefaultValue="%22%22%22onmouseover=alert(/Xssposed/)>R3NW4"/>
   <IconUrl DefaultValue="https://image.shutterstock.com/image-vector/walking-cat-vector-icon-silhouette-260nw-1146986147.jpg"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
